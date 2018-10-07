@@ -1,0 +1,40 @@
+.jumbotron {
+               background: linear-gradient(#ff2f00,#ff2f00,#ffa722,#ffff16,#92ff16,#19f3dd,#1921f3,#aa19f3)
+}
+
+ .col_1 {
+ 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
+ 	height: 1200px
+ }
+
+  .col_2 {
+ 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
+ 	height: 1200px
+ }
+
+  .col_3 {
+ 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
+ 	height: 1200px
+ }
+
+  .col_4 {
+ 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
+ 	height: 1200px
+ }
+
+#messageform{
+	padding: 30px 8%;
+}
+
+body {
+    background-color: #feffe5
+}
+
+
+
+
+
+
+
+
+

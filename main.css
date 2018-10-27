@@ -1,25 +1,18 @@
 .jumbotron {
-               background: linear-gradient(#ff2f00,#ff2f00,#ffa722,#ffff16,#92ff16,#19f3dd,#1921f3,#aa19f3)
+               background: linear-gradient(45deg,#ff2f00,#ffa722,#ffff16,#92ff16,#19f3dd,#1921f3,#aa19f3);
+               font-family: 'Fahkwang', sans-serif;
 }
 
  .col_1 {
- 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
- 	height: 1200px
+ 	background-color: transparent;
+ 	height: 200px
  }
 
   .col_2 {
- 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
- 	height: 1200px
+ 	background-color: transparent;
+ 	height: 200px
  }
 
-  .col_3 {
- 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
- 	height: 1200px
- }
-
-  .col_4 {
- 	background: linear-gradient(#feffe5,#ffffff,#feffe5);
- 	height: 1200px
  }
 
 #messageform{
@@ -27,7 +20,8 @@
 }
 
 body {
-    background-color: #feffe5
+	background-color:#fff9d0 ;
+font-family: 'Abril Fatface', cursive;
 }
 
 

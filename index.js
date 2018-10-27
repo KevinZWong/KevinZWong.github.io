@@ -60,4 +60,15 @@ function validate() {
 		$("#formerrors").html("Thank you for submitting!");
 		$("#formerrors").css("color", "green");
 	}
+
+	document.body.style.background = "linear-gradient(56deg,#37ff45,#858fff,#bc85ff,#ffca85,#ccff85,#85e3ff,#85ffa6,#d0ff85,#ffb885,#bc85ff,#f9a6b3,#22fff8,#ff53c3,#d3ffc3,#ff85b2,#ff8800)";
+	 	
 }
+
+function changeBackgroundColor(color) {
+	document.body.style.background = color;
+}
+
+
+
+
